@@ -4,7 +4,7 @@
 - "💞️ I’m looking to collaborate on open-source projects related to web development"
 - 📫 Feel free to email me at [laknathgunwardhana@gmail.com] or connect with me on LinkedIn: [(https://www.linkedin.com/in/laknath-vidura-bb8686251/)]."
 - "😄 Pronouns: He/Him/His"
-- ⚡ Fun fact: Once i built web application about crop yield prediction
+- ⚡ Fun fact: I built web application about crop yield prediction
 
 <!---
 laknathvg/laknathvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
